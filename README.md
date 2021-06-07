@@ -1,4 +1,4 @@
-# HumanResourceManagementSystem
+# Human Resource Management System
 
 This project is a human resources management system project that brings job seekers and employers together.
 
